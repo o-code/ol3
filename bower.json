@@ -1,6 +1,6 @@
 {
   "name": "openlayers3",
   "description": "A high-performance, feature-packed library for all your mapping needs.",
-  "main": ["ol.css", "ol-debug.js"],
+  "main": ["ol.css", "ol-debug.js", "ol.module.js"],
   "ignore": []
 }
